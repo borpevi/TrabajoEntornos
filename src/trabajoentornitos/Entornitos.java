@@ -12,6 +12,8 @@ public class Entornitos {
 		System.out.println("Dale a tu cuerpo alegri macarena");
 		System.out.println("Y andres te dara la cosa buena");
 		
+		System.out.println("Forzar primer error");
+		
 	}
 
 }
