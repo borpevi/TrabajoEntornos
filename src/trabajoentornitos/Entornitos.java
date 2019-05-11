@@ -14,7 +14,7 @@ public class Entornitos {
 		
 		System.out.println("Forzar primer error");
 		System.out.println("intentando segundo error");
-	
+	System.out.println("error decimocuarto");
 	
 	}
 
