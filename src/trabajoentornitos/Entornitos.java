@@ -13,7 +13,9 @@ public class Entornitos {
 		System.out.println("Y andres te dara la cosa buena");
 		
 		System.out.println("Forzar primer error");
-		
+		System.out.println("intentando segundo error");
+	
+	
 	}
 
 }
