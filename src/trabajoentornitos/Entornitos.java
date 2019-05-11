@@ -13,6 +13,7 @@ public class Entornitos {
 		System.out.println("Y andres te dara la cosa uena");
 		
 		System.out.println("Forzar primer error");
+<<<<<<< HEAD
 		System.out.println("Forzar aaaaaaaaaaaaaa error");
 		System.out.println("Forzar bbbbbbbbbbbbbb error");
 		System.out.println("Forzar cccccccccccccc error");
@@ -22,6 +23,11 @@ public class Entornitos {
 		System.out.println("Forzar ggggggggg gggg error");
 		
 		
+=======
+		System.out.println("intentando segundo error");
+	System.out.println("error decimocuarto");
+	
+>>>>>>> branch 'master' of https://github.com/borpevi/TrabajoEntornos.git
 	}
 
 }
