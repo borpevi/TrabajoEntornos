@@ -13,6 +13,14 @@ public class Entornitos {
 		System.out.println("Y andres te dara la cosa buena");
 		
 		System.out.println("Forzar primer error");
+		System.out.println("Forzar aaaaaaaaaaaaaa error");
+		System.out.println("Forzar bbbbbbbbbbbbbb error");
+		System.out.println("Forzar cccccccccccccc error");
+		System.out.println("Forzar dddddddddddddd error");
+		System.out.println("Forzar eeeeeeeeeeeeee error");
+		System.out.println("Forzar ffffffffffffff error");
+		System.out.println("Forzar gggggggggggggg error");
+		
 		
 	}
 
